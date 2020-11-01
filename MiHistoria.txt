@@ -1,0 +1,6 @@
+Soy Brandon Alexander Un desarrollador novato que maneja
+- Android Studio
+- Java
+- JavaScript
+- C++
+- SQL
